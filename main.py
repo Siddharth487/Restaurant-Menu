@@ -1,25 +1,4 @@
-"""
-  SV Robotics is now branching out into the restaurant 
-  sector! A fledgling restaurant just starting up,
-  we will only be serving only main courses and drinks.
-  But what is a restaurant without a menu?
 
-  Your task is to:
-   - Represent Food and Drink as objects that have 
-     gettible name, price and serving size data.
-
-   - Provide a way to organize food items and drink
-   items into a MenuCategory container class, and finally,
-
-   - Create a Menu class that nicely prints out SV 
-     Restaurant & Grill's current food offerings.
-   
-  Keep in mind that we still want our design to be 
-  flexible and  maintainable when we start adding 
-  Appetizers and Desserts, so pay attention to any
-  oppourtinties for simple inheritance (there is at
-  least one for Food and Drink objects.) 
-"""
 # drinks = ["Water", "Coffee", "Tea", "Cola", "Pepsi", "Root Beer", "Beer", "Wine"]
 
 food_list = []
